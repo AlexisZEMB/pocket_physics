@@ -1,0 +1,5 @@
+matplotlib==3.8.2
+numpy==1.26.4
+PyQt5==5.15.11
+PyQt5_sip==12.15.0
+qtmodern==0.2.0
